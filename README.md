@@ -19,6 +19,7 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Home](https://github.com/user-attachments/assets/b91c3581-a0ed-4193-bf6b-1f22fdb5e579)
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
